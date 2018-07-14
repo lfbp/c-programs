@@ -1,3 +1,4 @@
+//Problem from spoj
 #include <stdio.h>
 #include <stdlib.h>
 
